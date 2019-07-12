@@ -3,5 +3,9 @@ name = "urldecode"
 version = "0.1.0"
 authors = ["Luca Marcelli <luca@cerrato.ch>"]
 edition = "2018"
+exclude = [
+    ".idea/*",
+    "*.iml",
+]
 
 [dependencies]
