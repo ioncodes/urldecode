@@ -4,6 +4,7 @@ version = "0.1.1"
 authors = ["Luca Marcelli <luca@cerrato.ch>"]
 edition = "2018"
 description = "URL decoding made easy"
+repository = "https://github.com/ioncodes/urldecode"
 license = "MIT"
 exclude = [
     ".idea/*",
